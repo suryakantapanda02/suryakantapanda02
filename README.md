@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm suryakanta panda</h1>
 <h3 align="center">A passionate Software tester from India</h3>
 
-- 🔭 I’m currently working on **PyCharm CE**
+- 🔭 I’m currently working on **Selenium Webdriver**
 
 - 🌱 I’m currently learning **Advance Python**
 
