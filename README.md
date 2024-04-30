@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm suryakanta panda</h1>
 <h3 align="center">A passionate Software tester from India</h3>
 
-- 🔭 I’m currently working on **Selenium Webdriver**
+- 🔭 I’m currently working on **Selenium Webdriver.**
 
-- 🌱 I’m currently learning **Advance Python**
+- 🌱 I’m currently learning **Jira**
 
-- 📝 I regularly write articles on [pixies.ltd](pixies.ltd)
+- 📝 I regularly write articles on **[Geekysuri](https://www.linkedin.com/newsletters/geekysuri-7190671657726889986)**
 
 - 📫 How to reach me **suryakantapanda0212@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/suryakantapanda/"><b>LinkedIn</b></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
