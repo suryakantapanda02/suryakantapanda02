@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Socitiii](https://www.socitiii.online/)
 
-- 🌱 I’m currently learning **Pytest Framework**
+- 🌱 I’m currently learning **ROBOT Framework**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/geekysuri](https://www.behance.net/geekysuri)
 
