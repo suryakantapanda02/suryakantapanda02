@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suryakanta Panda</h1>
-<h3 align="center">A passionate Quality Assurance Tester from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 
 - 🔭 I’m currently working on [Socitiii](https://www.socitiii.online/)
 
